@@ -55,16 +55,6 @@ Some of our recent projects and clients:
 
 ---
 
-## 💬 What Our Clients Say
-
-> "Working with this team was a game-changer. Their ability to understand our goals and translate them into a functional, engaging website exceeded all expectations." — _Emily Carter, EduGrowth Solutions_
-
-> "Our online training portal is now faster, more user-friendly, and mobile-optimized. We've received great feedback from participants and instructors alike." — _Michael Thompson, NextGen Skills Hub_
-
-> "They brought our vision to life with such precision. The website reflects our brand perfectly, and client inquiries have significantly increased." — _Natalie Brown, BrightPath Advisors_
-
----
-
 ## 📦 Getting Started
 
 ### Prerequisites
