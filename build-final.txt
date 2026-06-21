@@ -1,0 +1,8 @@
+
+> upskill-agency@0.1.0 build
+> next build
+
+   ▲ Next.js 15.3.2
+
+   Creating an optimized production build ...
+^C
