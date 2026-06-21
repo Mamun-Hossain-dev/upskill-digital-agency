@@ -22,7 +22,7 @@ export const metadata = {
       "Professional web development, digital marketing, SEO, and digital solutions to grow your business online.",
     type: "website",
     locale: "en_US",
-    url: "https://upskilldigitalagency.com",
+    url: "/",
     siteName: "UpSkill Digital Agency",
   },
   icons: {
