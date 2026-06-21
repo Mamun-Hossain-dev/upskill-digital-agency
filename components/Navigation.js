@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Menu, X, Phone, Mail, MapPin } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 
 export default function Navigation() {
@@ -49,9 +50,12 @@ export default function Navigation() {
                   <div className="flex items-center space-x-3">
                     <div className="w-14 h-14 rounded-lg flex items-center justify-center">
                       {/* <span className="text-white font-bold text-lg">U</span> */}
-                      <img
+                      <Image
                         className="rounded-full"
                         src="/images/users/logo.png"
+                        alt="UpSkill Digital Agency Logo"
+                        width={56}
+                        height={56}
                       />
                     </div>
                     <div>
@@ -132,7 +136,7 @@ export default function Navigation() {
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-3 ml-3 lg:ml-0">
           <div className="w-12 h-12  rounded-lg flex items-center justify-center">
-            <img className="rounded-full" src="/images/users/logo.png" />
+            <Image className="rounded-full" src="/images/users/logo.png" alt="UpSkill Digital Agency Logo" width={48} height={48} />
           </div>
           <div className="hidden sm:block">
             <h1 className="text-xl font-bold text-indigo-700">UpSkill</h1>
